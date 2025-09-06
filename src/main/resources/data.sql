@@ -1,0 +1,5 @@
+INSERT INTO products (name, description, price, image_url, category, stock) VALUES
+                                                                                ('Wireless Bluetooth Headphones', 'High-quality wireless headphones with noise cancellation', 199.99, 'https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=300&h=200&fit=crop', 'Electronics', 50),
+                                                                                ('Smartphone Case', 'Protective case for latest smartphone models', 29.99, 'https://images.unsplash.com/photo-1601593346740-925612772716?w=300&h=200&fit=crop', 'Electronics', 100),
+                                                                                ('Running Shoes', 'Comfortable running shoes for daily workouts', 129.99, 'https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=300&h=200&fit=crop', 'Sports', 30),
+                                                                                ('Coffee Maker', 'Automatic drip coffee maker with programmable timer', 89.99, 'https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=300&h=200&fit=crop', 'Home', 25);
